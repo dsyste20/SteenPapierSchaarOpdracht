@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbdca0ce-4487-4162-b483-1a5cd39276a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1Wssbr8QSfBGrxi5M0sSOceWkDz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbdca0ce-4487-4162-b483-1a5cd39276a5" name="Default Changelist" comment="" />
+      <created>1579949710565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579949710565</updated>
+      <workItem from="1579949712003" duration="11947000" />
+      <workItem from="1580133965621" duration="656000" />
+      <workItem from="1580151956310" duration="621000" />
+      <workItem from="1580296374471" duration="1384000" />
+      <workItem from="1580323042658" duration="598000" />
+      <workItem from="1580462220875" duration="2651000" />
+      <workItem from="1580470027556" duration="13620000" />
+      <workItem from="1580498722984" duration="22354000" />
+      <workItem from="1580674629150" duration="609000" />
+      <workItem from="1580715800449" duration="322000" />
+      <workItem from="1580912424951" duration="2114000" />
+      <workItem from="1580932556218" duration="1878000" />
+      <workItem from="1581077121112" duration="3792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="858" y="3" key="#PHP" timestamp="1579950519182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="858" y="3" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1579950519182" />
+    <state x="931" y="171" key="FileChooserDialogImpl" timestamp="1580151978839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="931" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580151978839" />
+    <state x="986" y="336" key="NewPhpFileDialog" timestamp="1580912437469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="986" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1580912437469" />
+    <state x="848" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1581077634520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="848" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581077634520" />
+    <state x="801" y="189" key="run.anything.popup" timestamp="1580914257318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="801" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580914257315" />
+    <state x="749" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580495655817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="749" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580495655817" />
+  </component>
+</project>
